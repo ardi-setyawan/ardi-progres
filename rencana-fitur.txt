@@ -1,0 +1,5 @@
+Rencana fitur 
+berisi tentang 
+membuat branch baru
+dengan nama rencana fitur
+yang merupakan cabang dari branch master
