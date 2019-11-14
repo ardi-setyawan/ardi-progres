@@ -1,3 +1,4 @@
+fitur duwa
 Rencana fitur 
 berisi tentang 
 membuat branch baru
@@ -6,3 +7,6 @@ yang merupakan cabang dari branch master
 *baris ini di tambahkan sebagai 
   -commit ke dua
   -untuk latihan commit branch rencana fitur
+* ini adalah baris edit untuk fitur dua
+  ^setyawan
+  ^ardi
